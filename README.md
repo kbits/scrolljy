@@ -1,2 +1,3 @@
 # scrolljy
-Signed when div smaller then his content
+jquery plugin
+Indicates if the content is smaller than its container.
