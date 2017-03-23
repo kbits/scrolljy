@@ -1,3 +1,5 @@
 # scrolljy
 jquery plugin
-Indicates if the content is smaller than its container.
+Indicates if the content is smaller than its container. 
+
+next Update
