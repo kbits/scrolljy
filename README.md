@@ -2,4 +2,4 @@
 jquery plugin
 Indicates if the content is smaller than its container. 
 
-next Update soon and so on
+next Update soon change
